@@ -10,9 +10,6 @@ A modern glassmorphism To-Do App built using HTML, CSS, and JavaScript.
 - Smooth animations
 - Modern UI design
 
-## 🌍 Live Demo
-https://yourusername.github.io/animated-todo-app/
-
 ## 🛠 Tech Stack
 - HTML
 - CSS
